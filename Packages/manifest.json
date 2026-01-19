@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.staggartcreations.splinemesher": "file:D:/FH/MRE3IL/com.staggartcreations.splinemesher",
+=======
+    "com.staggartcreations.splinemesher": "file:C:/Users/s2410628002/com.staggartcreations.splinemesher",
+>>>>>>> 147ca11454b068345cb9713ed5edf2a03e439937
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.collab-proxy": "2.10.0",
     "com.unity.ide.rider": "3.0.38",

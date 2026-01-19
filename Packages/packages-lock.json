@@ -1,7 +1,11 @@
 {
   "dependencies": {
     "com.staggartcreations.splinemesher": {
+<<<<<<< HEAD
       "version": "file:D:/FH/MRE3IL/com.staggartcreations.splinemesher",
+=======
+      "version": "file:C:/Users/s2410628002/com.staggartcreations.splinemesher",
+>>>>>>> 147ca11454b068345cb9713ed5edf2a03e439937
       "depth": 0,
       "source": "local",
       "dependencies": {
