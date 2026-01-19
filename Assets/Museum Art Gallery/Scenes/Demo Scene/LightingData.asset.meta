@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1873f83b535a00498b685b685ba25f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188756
+  packageName: Art Gallery Museum
+  packageVersion: 1.0
+  assetPath: Assets/Museum Art Gallery/Scenes/Demo Scene/LightingData.asset
+  uploadId: 555065

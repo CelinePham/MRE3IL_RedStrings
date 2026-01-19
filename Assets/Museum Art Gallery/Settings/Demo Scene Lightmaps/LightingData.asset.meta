@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95d31aadd1cad2a428b98a617500439c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188756
+  packageName: Art Gallery Museum
+  packageVersion: 1.0
+  assetPath: Assets/Museum Art Gallery/Settings/Demo Scene Lightmaps/LightingData.asset
+  uploadId: 555065
