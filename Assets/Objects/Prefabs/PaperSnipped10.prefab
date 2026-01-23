@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5268460675038366903}
   - component: {fileID: 1988286665728152634}
   m_Layer: 0
-  m_Name: PaperSnipped01
+  m_Name: PaperSnipped10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -273,7 +273,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 630a5e6b84a9ab54091c4e4276baa1b8, type: 2}
+  - {fileID: 2100000, guid: 62a896a79d91974418692c67e4c68b25, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
