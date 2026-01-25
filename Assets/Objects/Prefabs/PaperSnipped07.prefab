@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5268460675038366900}
   - component: {fileID: 5268460675038366903}
   - component: {fileID: 1988286665728152634}
+  - component: {fileID: 9090413584682758136}
   m_Layer: 0
   m_Name: PaperSnipped07
   m_TagString: Untagged
@@ -208,6 +209,40 @@ MonoBehaviour:
   m_MinimumScaleRatio: 0.25
   m_MaximumScaleRatio: 3
   m_ScaleMultiplier: 0.25
+--- !u!114 &9090413584682758136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5268460675038366902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea06937cf478de42ab5d69290c7df06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whisperLoop:
+    Guid:
+      Data1: 1441918946
+      Data2: 1120103278
+      Data3: -1042747718
+      Data4: 566254637
+    Path: event:/SchnipselFluestern07
+  pickupOneShot:
+    Guid:
+      Data1: 361863202
+      Data2: 1077609275
+      Data3: -1752950105
+      Data4: -556745016
+    Path: event:/SchnipselPickUp07
+  vanishOneShot:
+    Guid:
+      Data1: -1044194541
+      Data2: 1092668588
+      Data3: 935293323
+      Data4: 658424495
+    Path: event:/SchnipselVerschwinden
+  minFadeTime: 5
 --- !u!1 &9178217381996084405
 GameObject:
   m_ObjectHideFlags: 0
